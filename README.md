@@ -38,6 +38,19 @@ Libraries used:
   - Requests
     - https://2.python-requests.org/en/master/
     
+Seperation of work:
+  - Jordan:
+    - 
+  - Mohammad:
+    - Proposed skill concept. Provided hardware support and information on how Athan works. Created/Edited intents. Created presentation.
+  - Connor:
+    - Wrote the webscrapers. Wrote the nextPrayer intent and the prayersRemaining intent. 
+  - Zach:
+    - 
+
+  
     
     
  Old Repo: https://github.com/JordanJGarcia/AthanAlexaSkill
+ 
+ 
